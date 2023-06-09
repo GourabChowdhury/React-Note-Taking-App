@@ -1,2 +1,2 @@
-# React-To-Do-List
+# React-Note-Taking-App.
 React big project.
